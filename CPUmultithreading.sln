@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPUmultithreading", "WindowsFormsApp1\CPUmultithreading.csproj", "{1DC10565-D397-474F-AC83-BEF27BA0638B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E4E6F503-29E1-4636-91AB-F833E7E7387F} = {E4E6F503-29E1-4636-91AB-F833E7E7387F}
+		{3E2E10A1-18A7-4BE1-AB50-83F4F93972B3} = {3E2E10A1-18A7-4BE1-AB50-83F4F93972B3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmLibrary", "AlgorithmLibrary\AlgorithmLibrary.csproj", "{997E92D2-B80D-4CD4-A0DC-7F558C4F4A3B}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AWSservice(1)", "AWSservice\", "{E4E6F503-29E1-4636-91AB-F833E7E7387F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64367"
+		Debug.AspNetCompiler.PhysicalPath = "AWSservice\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64367\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64367"
+		Release.AspNetCompiler.PhysicalPath = "AWSservice\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64367\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64367"
+		SlnRelativePath = "AWSservice\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AWSalgorithm2", "AWSalgorithm2\", "{3E2E10A1-18A7-4BE1-AB50-83F4F93972B3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62136"
+		Debug.AspNetCompiler.PhysicalPath = "AWSalgorithm2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62136\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62136"
+		Release.AspNetCompiler.PhysicalPath = "AWSalgorithm2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62136\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62136"
+		SlnRelativePath = "AWSalgorithm2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC10565-D397-474F-AC83-BEF27BA0638B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC10565-D397-474F-AC83-BEF27BA0638B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC10565-D397-474F-AC83-BEF27BA0638B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC10565-D397-474F-AC83-BEF27BA0638B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997E92D2-B80D-4CD4-A0DC-7F558C4F4A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997E92D2-B80D-4CD4-A0DC-7F558C4F4A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997E92D2-B80D-4CD4-A0DC-7F558C4F4A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997E92D2-B80D-4CD4-A0DC-7F558C4F4A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E6F503-29E1-4636-91AB-F833E7E7387F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E6F503-29E1-4636-91AB-F833E7E7387F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E6F503-29E1-4636-91AB-F833E7E7387F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E6F503-29E1-4636-91AB-F833E7E7387F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3E2E10A1-18A7-4BE1-AB50-83F4F93972B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2E10A1-18A7-4BE1-AB50-83F4F93972B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2E10A1-18A7-4BE1-AB50-83F4F93972B3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2E10A1-18A7-4BE1-AB50-83F4F93972B3}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA376F2-3132-47B5-9316-270A256B35AC}
+	EndGlobalSection
+EndGlobal

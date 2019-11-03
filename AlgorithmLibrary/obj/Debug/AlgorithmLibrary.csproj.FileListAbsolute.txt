@@ -1,0 +1,6 @@
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\AlgorithmLibrary\bin\Debug\AlgorithmLibrary.dll
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\AlgorithmLibrary\bin\Debug\AlgorithmLibrary.pdb
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\AlgorithmLibrary\obj\Debug\AlgorithmLibrary.csprojResolveAssemblyReference.cache
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\AlgorithmLibrary\obj\Debug\AlgorithmLibrary.csproj.CoreCompileInputs.cache
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\AlgorithmLibrary\obj\Debug\AlgorithmLibrary.dll
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\AlgorithmLibrary\obj\Debug\AlgorithmLibrary.pdb

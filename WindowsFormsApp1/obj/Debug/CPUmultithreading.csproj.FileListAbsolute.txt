@@ -1,0 +1,12 @@
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AlgorithmLibrary.dll
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AlgorithmLibrary.pdb
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPUmultithreading.csproj.GenerateResource.cache
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPUmultithreading.csproj.CoreCompileInputs.cache
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPUmultithreading.csproj.CopyComplete
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\User\Desktop\deakin IT shit\SIT323\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
